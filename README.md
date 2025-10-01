@@ -2,7 +2,7 @@
 # React Starter Lab – Student Info Card
 
 ## Introduction to React
-React is a **JavaScript library** developed by **Facebook (Meta)** in 2013. It was created to simplify building user interfaces for web applications. Before React, front-end developers relied heavily on **HTML, CSS, and vanilla JavaScript** (or jQuery) for dynamic web pages, which often became complex and hard to maintain.
+React is a **JavaScript library** developed by **Facebook (Meta)** in 2012. It was created to simplify building user interfaces for web applications. Before React, front-end developers relied heavily on **HTML, CSS, and vanilla JavaScript** (or jQuery) for dynamic web pages, which often became complex and hard to maintain.
 
 React introduced the concept of **components** – small, reusable pieces of UI – making web development more structured and efficient.
 
